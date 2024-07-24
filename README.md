@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nii-dhii
-- 👀 I’m interested in Data Analysis and probability
+- 👀 I’m interested in Data Analysis and Probability.
 - 🌱 I’m currently learning Tableau to advance my Data analysis skills.
 - 📫 Reach me at bhagatnidhi088@gmail.com
 - 😄 Pronouns: She/Her
